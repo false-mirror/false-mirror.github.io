@@ -8,7 +8,8 @@ categories: jekyll update
 This is a simple test for making a post with =Jekyll Markdown=.
  * unordered
  * list
-**Then** This **list**
+
+ **Then** This **list**
 1. Is
 2. Indeed
 3. Ordered
